@@ -2,7 +2,7 @@ my_list = ['strawberry', 'banana', ' grape', 'peach', 'pineapple', 'kiwi']
 print('List:', my_list)
 print('First element:', my_list[0])
 print('Last element:', my_list[-1])
-print('Sublist:', my_list[2:4])
+print('Sublist:', my_list[2:5])
 my_list[2] = 777
 print('Modified list:', my_list)
 # ---
